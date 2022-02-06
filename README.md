@@ -27,6 +27,9 @@ You can easily find me on :
   
 
 
+<hr>
+
+<h5> Known technologies: </h5>
 
 
 
@@ -35,8 +38,7 @@ You can easily find me on :
 
 
 
-
-
+<hr>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KarolBautrel&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
