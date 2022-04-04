@@ -1,10 +1,10 @@
 
 ### Hi there 👋
-<h3> My name is Karol Bautrel and I am Aspiring Python Developer. </h3>
+<h3> My name is Karol Bautrel and I am Junior Python Developer. </h3>
 
-<h4> I am self-taught Python developer and 3rd year Control Engineering student actively looking for first job </h4>
-<div>🔭 I’m currently working on social application based on Django REST framework and React Frontend in the future </div>
-<div>🌱 I’m currently learning Python, PostgreSQL, Django, Django REST framework, HTML, CSS </div>
+<h4> I am self-taught Python developer and 3rd year Control Engineering student  </h4>
+<div>🔭 I’m currently working on social application based on Django and React   </div>
+<div>🌱 I’m currently learning Python, PostgreSQL, Django, Django REST framework, Javascript, React, HTML, CSS </div>
 <h5>⚡ Facts about me: </h5>
  :arrow_forward: Huge passionate of Math :triangular_ruler:
  <br>
