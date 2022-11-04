@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<h3> My name is Karol Bautrel and I am Junior Python Developer. </h3>
+<h3> My name is Karol Bautrel and I am Software Developer. </h3>
 
 <h4> I am self-taught Python developer and 3rd year Control Engineering student  </h4>
 <div>🔭 I’m currently working on Social app based on Fast API and React.js   </div>
