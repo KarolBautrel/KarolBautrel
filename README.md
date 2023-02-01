@@ -2,8 +2,8 @@
 ### Hi there 👋
 <h3> My name is Karol Bautrel and I am Software Developer. </h3>
 
-<h4> I am self-taught Python developer and 3rd year Control Engineering student  </h4>
-<div>🔭 I’m currently working on Social app based on Fast API and React.js   </div>
+<h4> I am self-taught Software developer and 3rd year Control Engineering student  </h4>
+<div>🔭 I’m currently working on improving my skills in java-based software   </div>
 <h5>⚡ Facts about me: </h5>
  :arrow_forward: Huge passionate of Math :triangular_ruler:
  <br>
