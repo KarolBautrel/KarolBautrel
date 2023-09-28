@@ -2,7 +2,7 @@
 ### Hi there 👋
 <h3> My name is Karol Bautrel and I am Software Developer. </h3>
 
-<h4> I am self-taught Software developer and 3rd year Control Engineering student  </h4>
+<h4> I am self-taught Software developer and Control Engineer  </h4>
 <div>🔭 I’m currently working on writing software in DDD software desing approach with Python and Fast Api   </div>
 <h5>⚡ Facts about me: </h5>
  :arrow_forward: Huge passionate of Math :triangular_ruler:
