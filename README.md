@@ -3,7 +3,7 @@
 <h3> My name is Karol Bautrel and I am Software Developer. </h3>
 
 <h4> I am self-taught Software developer and Control Engineer  </h4>
-<div>🔭 I’m currently working on writing software in DDD software desing approach with Python and Fast Api   </div>
+<div>🔭 I’m currently working on writing software in DDD software desing approach with Python and Fast Api and contributing in planner-app mobile application created with my team.  </div>
 <h5>⚡ Facts about me: </h5>
  :arrow_forward: Huge passionate of Math :triangular_ruler:
  <br>
