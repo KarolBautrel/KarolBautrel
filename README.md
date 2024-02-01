@@ -1,9 +1,8 @@
 
 ### Hi there 👋
-<h3> My name is Karol Bautrel and I am Software Developer. </h3>
+<h3> My name is Karol Bautrel and I am Software Developer and Control Engineer. </h3>
 
-<h4> I am Software developer and Control Engineer  </h4>
-<div>🔭 I’m currently improving my skills on projecting software in DDD architecture approach using Python. I am also working with my friends on planner app based on react-native and fast api </div>
+<div>🔭 I’m currently improving my skills on projecting software in DDD architecture approach using Python. I am also working with my friends on planner app based on react-native and python Fast Api framework </div>
 <h5>⚡ Facts about me: </h5>
  :arrow_forward: Huge passionate of Math :triangular_ruler:
  <br>
