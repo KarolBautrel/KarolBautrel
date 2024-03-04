@@ -2,7 +2,8 @@
 ### Hi there 👋
 <h3> My name is Karol Bautrel and I am Software Developer and Control Engineer. </h3>
 
-<div>🔭 I’m currently improving my skills on projecting software in DDD architecture approach using Python. I am also working with my friends on planner app based on react-native and python Fast Api framework </div>
+<div>🔭
+I specialize in creating web software and also have experience in real-time systems. I am a huge enthusiast of system design, software architecture and DDD. My main technologies are Python and TypeScript, though I am also a big fan of Go and do not limit myself to just one tool.  </div>
 <h5>⚡ Facts about me: </h5>
  :arrow_forward: Huge passionate of Math :triangular_ruler:
  <br>
