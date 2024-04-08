@@ -13,7 +13,7 @@ I specialize in creating web software and also have experience in real-time syst
   <br>
  :arrow_forward: Crossfit lover :metal:
   <br>
- :arrow_forward: True gamer (PCmasterrace !)  :video_game:
+ :arrow_forward: True gamer   :video_game:
 
 <hr>
 
